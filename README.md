@@ -2,6 +2,12 @@
 
 Bài lab 120 phút: từ số đo nhiễu đến một bộ theo dõi hợp nhất LiDAR, radar và camera, viết bằng NumPy. Buổi lab kết thúc bằng nhiệm vụ chẩn đoán cảm biến cho xe tự hành **Lynx-07**. Mỗi học viên nhận một quỹ đạo và một lỗi cảm biến riêng, sinh từ `STUDENT_ID`.
 
+## Bài nộp — 2A202602745
+
+File nộp: [`Lab/kalman_fusion_lab_2A202602745.ipynb`](Lab/kalman_fusion_lab_2A202602745.ipynb).
+
+Notebook đã chạy từ đầu bằng kernel mới, có output và biểu đồ, hoàn thành bài 5.1, 5.2, 6.1, 7.1, nhiệm vụ Phần 9 cùng báo cáo 4 mục, và bonus EKF Phần 8. Ô cuối hiển thị `✅ Lab Lynx-07 Complete`. Điểm chính thức do giảng viên xác nhận.
+
 ## Cấu trúc
 
 | File | Ai dùng | Ghi chú |
