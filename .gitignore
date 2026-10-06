@@ -16,6 +16,11 @@
 .DS_Store
 .latexmkrc
 
+# Local Python and Jupyter environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
 # Instructor-only. Keep locally; do not ship to students.
 Lab/kalman_fusion_lab_SOLUTIONS.ipynb
 Lab/instructor_answer_key.py
